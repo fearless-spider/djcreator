@@ -1,6 +1,6 @@
 # Django creator
 
-A glamorous shell scripts with [gum](https://github.com/charmbracelet/gum)
+A glamorous shell scripts with [gum](https://github.com/charmbracelet/gum) to create starter project with extra packages
 
 ## 🚀 Features
 
