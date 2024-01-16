@@ -13,7 +13,7 @@ if [ $TYPE = "clean" ]; then
 	if [ $? -eq 0 ]; then
 		python -m venv djvenv
 		./djvenv/bin/pip install --upgrade pip
-		./djvenv/bin/pip install django django-bootstrap-v5
+		./djvenv/bin/pip install django django-bootstrap-v5 django-debug-toolbar
 		PROJECT_NAME=$(gum input --placeholder "Name of Django project")
 		./djvenv/bin/django-admin startproject "$PROJECT_NAME"
 	fi
@@ -23,7 +23,7 @@ elif [ $TYPE = "auth" ]; then
 	if [ $? -eq 0 ]; then
 		python -m venv djvenv
 		./djvenv/bin/pip install --upgrade pip
-		./djvenv/bin/pip install django django-bootstrap-v5 django-registration
+		./djvenv/bin/pip install django django-bootstrap-v5 django-debug-toolbar django-registration
 		PROJECT_NAME=$(gum input --placeholder "Name of Django project")
 		./djvenv/bin/django-admin startproject "$PROJECT_NAME"
 	fi
