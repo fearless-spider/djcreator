@@ -9,11 +9,13 @@ A glamorous shell scripts with [gum](https://github.com/charmbracelet/gum) to cr
 - User log in/out, sign up, password reset via django-registration
 - Styling with Bootstrap v5
 - Debugging with django-debug-toolbar
+- E-commerce with Django Oscar
+- Blogging with Django Blog Lotus
 
 ## 📖 Usage
 
 ```shell
-sh djcreator.sh
+./djcreator.sh
 ```
 
 ## :seedling: TODO
