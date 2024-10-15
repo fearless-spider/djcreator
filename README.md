@@ -9,7 +9,7 @@ A glamorous shell scripts with [gum](https://github.com/charmbracelet/gum) to cr
 - User log in/out, sign up, password reset via django-registration
 - Styling with Bootstrap v5
 - Debugging with django-debug-toolbar
-- E-commerce with Django Oscar
+- E-commerce with [Django Oscar](https://github.com/django-oscar/django-oscar)
 - Blogging with Django Blog Lotus
 
 ## 📖 Usage
@@ -33,6 +33,6 @@ Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](CO
 
 Give a ⭐️ if this project helped you!
 
-## License
+## 📝 License
 
 The [BSD 3-Clause "New" or "Revised" License](LICENSE)
