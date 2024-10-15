@@ -4,13 +4,13 @@ A glamorous shell scripts with [gum](https://github.com/charmbracelet/gum) to cr
 
 ## 🚀 Features
 
-- Django 5.x & Python 3
+- [Django latest](https://www.djangoproject.com/) & Python 3
 - Install via Pip
-- User log in/out, sign up, password reset via django-registration
-- Styling with Bootstrap v5
-- Debugging with django-debug-toolbar
+- User log in/out, sign up, password reset via [django-registration](https://github.com/ubernostrum/django-registration)
+- Styling with [Bootstrap v5](https://github.com/zelenij/django-bootstrap-v5)
+- Debugging with [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
 - E-commerce with [Django Oscar](https://github.com/django-oscar/django-oscar)
-- Blogging with Django Blog Lotus
+- Blogging with [Django Blog Lotus](https://github.com/emencia/django-blog-lotus)
 
 ## 📖 Usage
 
